@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <h1>Hi Git!</h1>
+        <h1>This is Git Hub test</h1>
     
         )
 }
