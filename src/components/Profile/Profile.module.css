@@ -1,0 +1,12 @@
+.container {
+    margin: 0;
+}
+
+.container img {
+    width: 700px;
+}
+
+.appWrapperProfile {
+    grid-area: c;
+    padding: 10px;
+}
